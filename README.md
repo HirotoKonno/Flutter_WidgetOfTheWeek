@@ -141,3 +141,6 @@ https://www.youtube.com/watch?v=_O0PPD1Xfbk&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#47 Semantics\
 https://www.youtube.com/watch?v=NvtMt_DtFrQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=101
+
+・#48 ConstrainedBox\
+https://www.youtube.com/watch?v=o2KveVr7adg&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=100
