@@ -156,3 +156,9 @@ https://www.youtube.com/watch?v=PEsY654EGZ0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#52 ListView\
 https://www.youtube.com/watch?v=KJpkjHGiI5A&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=97
+
+・#53 ListTitle\
+https://www.youtube.com/watch?v=l8dj0yPBvgQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=96
+
+・#54 Container\
+https://www.youtube.com/watch?v=c1xLMaTUWCY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=95
