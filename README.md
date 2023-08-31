@@ -201,3 +201,9 @@ https://www.youtube.com/watch?v=POtoEH-5l40&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#67 Drawer\
 https://www.youtube.com/watch?v=WRj86iHihgY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=83
+
+・#68 SnackBar\
+https://www.youtube.com/watch?v=zpO6n_oZWw0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=82
+
+・#69 ListWheelScrollView\
+https://www.youtube.com/watch?v=dUhmWAz4C7Y&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=82
