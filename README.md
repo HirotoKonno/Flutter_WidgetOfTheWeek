@@ -210,3 +210,9 @@ https://www.youtube.com/watch?v=dUhmWAz4C7Y&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#70 ShaderMask\
 https://www.youtube.com/watch?v=7sUL66pTQ7Q&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=81
+
+・#71 NotificationListener\
+https://www.youtube.com/watch?v=7sUL66pTQ7Q&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=81
+
+・#72 Builder\
+https://www.youtube.com/watch?v=cAnFbFoGM50&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=80
