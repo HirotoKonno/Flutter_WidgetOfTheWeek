@@ -219,3 +219,6 @@ https://www.youtube.com/watch?v=cAnFbFoGM50&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#73 ClipPath\
 https://www.youtube.com/watch?v=oAUebVIb-7s&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=78
+
+・#74 CircularProgressIndicator\
+https://www.youtube.com/watch?v=O-rhXZLtpv0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=77
