@@ -225,3 +225,6 @@ https://www.youtube.com/watch?v=O-rhXZLtpv0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#75 Divider\
 https://www.youtube.com/watch?v=_liUC641Nmk&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=76
+
+・#76 IgnorePointer\
+https://www.youtube.com/watch?v=qV9pqHWxYgI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=75
