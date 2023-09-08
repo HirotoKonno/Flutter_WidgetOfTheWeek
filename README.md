@@ -228,3 +228,6 @@ https://www.youtube.com/watch?v=_liUC641Nmk&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#76 IgnorePointer\
 https://www.youtube.com/watch?v=qV9pqHWxYgI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=75
+
+・#77 CupertinoActivityIndicator\
+https://www.youtube.com/watch?v=AENVH-ZqKDQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=74
