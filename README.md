@@ -231,3 +231,9 @@ https://www.youtube.com/watch?v=qV9pqHWxYgI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#77 CupertinoActivityIndicator\
 https://www.youtube.com/watch?v=AENVH-ZqKDQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=74
+
+・#78 ClipOval\
+https://www.youtube.com/watch?v=vzWWDO6whIM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=73
+
+・#79 AnimatedWidget\
+https://www.youtube.com/watch?v=LKKgYpC-EPQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=72
