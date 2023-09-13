@@ -243,3 +243,6 @@ https://www.youtube.com/watch?v=oD5RtLhhubg&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#81 CheckboxListTile\
 https://www.youtube.com/watch?v=RkSqPAn9szs&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=70
+
+・#82 AboutDialog\
+https://www.youtube.com/watch?v=YFCSODyFxbE&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=69
