@@ -246,3 +246,6 @@ https://www.youtube.com/watch?v=RkSqPAn9szs&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#82 AboutDialog\
 https://www.youtube.com/watch?v=YFCSODyFxbE&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=69
+
+・#83 Async\
+https://www.youtube.com/watch?v=r0tHiCjW2w0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=68
