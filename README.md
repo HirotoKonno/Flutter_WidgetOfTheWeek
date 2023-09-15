@@ -249,3 +249,6 @@ https://www.youtube.com/watch?v=YFCSODyFxbE&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#83 Async\
 https://www.youtube.com/watch?v=r0tHiCjW2w0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=68
+
+・#84 url_launcher\
+https://www.youtube.com/watch?v=qYxRYB1oszw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=67
