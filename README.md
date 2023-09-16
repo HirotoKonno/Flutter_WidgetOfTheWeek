@@ -252,3 +252,9 @@ https://www.youtube.com/watch?v=r0tHiCjW2w0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#84 url_launcher\
 https://www.youtube.com/watch?v=qYxRYB1oszw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=67
+
+・#85 sqflite\
+https://www.youtube.com/watch?v=HefHf5B1YM0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=66
+
+・#86 SliverAppBar\
+https://www.youtube.com/watch?v=mSc7qFzxHDw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=65
