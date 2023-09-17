@@ -258,3 +258,6 @@ https://www.youtube.com/watch?v=HefHf5B1YM0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#86 SliverAppBar\
 https://www.youtube.com/watch?v=mSc7qFzxHDw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=65
+
+・#87 InteractiveViewer\
+https://www.youtube.com/watch?v=zrn7V3bMJvg&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=64
