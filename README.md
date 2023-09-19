@@ -260,7 +260,10 @@ https://www.youtube.com/watch?v=HefHf5B1YM0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 https://www.youtube.com/watch?v=mSc7qFzxHDw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=65
 
 ・#87 InteractiveViewer\
-https://www.youtube.com/watch?v=zrn7V3bMJvg&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=64
+https://www.youtube.com/w atch?v=zrn7V3bMJvg&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=64
 
 ・#88 GridView\
 https://www.youtube.com/watch?v=bLOtZDTm4H8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=63
+
+・#89 SwitchListTile\
+https://www.youtube.com/watch?v=0igIjvtEWNU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=62
