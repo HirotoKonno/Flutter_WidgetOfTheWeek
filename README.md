@@ -267,3 +267,6 @@ https://www.youtube.com/watch?v=bLOtZDTm4H8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#89 SwitchListTile\
 https://www.youtube.com/watch?v=0igIjvtEWNU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=62
+
+・#90 Location\
+https://www.youtube.com/watch?v=65qbtJMltVk&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=61
