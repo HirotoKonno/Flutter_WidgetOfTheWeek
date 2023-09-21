@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '079_AnimatedWidget/animated_widget_view.dart';
+import '091_DeviceInfo/device_info_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,6 +26,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const AnimatedWidgetView();
+    return const DeviceInfoView();
   }
 }

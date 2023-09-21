@@ -270,3 +270,6 @@ https://www.youtube.com/watch?v=0igIjvtEWNU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#90 Location\
 https://www.youtube.com/watch?v=65qbtJMltVk&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=61
+
+・#91 DeviceInfo\
+https://www.youtube.com/watch?v=8T3g6HU5Odo&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=60
