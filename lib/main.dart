@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-import '079_AnimatedWidget/animated_widget_view.dart';
 import '091_DeviceInfo/device_info_view.dart';
 
 void main() {
