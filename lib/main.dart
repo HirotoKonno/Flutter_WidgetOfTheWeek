@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '088_GridView/grid_view.dart';
 import '089_SwitchListTile/switchlisttile_view.dart';
 import '091_DeviceInfo/device_info_view.dart';
+import '092_ImageFiltered/image_filtered_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -27,6 +28,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return GridviewSample();
+    return const ImageFilteredView();
   }
 }
