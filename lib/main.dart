@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '093_PhysicalModel/physicalmodel_view.dart';
+import '094_Animations/animations_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,6 +26,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const PhysicalModelView();
+    return const AnimationView();
   }
 }
