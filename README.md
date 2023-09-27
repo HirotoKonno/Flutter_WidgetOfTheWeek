@@ -282,3 +282,6 @@ https://www.youtube.com/watch?v=XgUOSS30OQk&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#94 AnimationView\
 https://www.youtube.com/watch?v=HHzAJdlEj1c&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=57
+
+・#95 Flutter_Slidable\
+https://www.youtube.com/watch?v=QFcFEpFmNJ8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=56
