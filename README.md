@@ -285,3 +285,6 @@ https://www.youtube.com/watch?v=HHzAJdlEj1c&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#95 Flutter_Slidable\
 https://www.youtube.com/watch?v=QFcFEpFmNJ8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=56
+
+・#96 RotatedBox\
+https://www.youtube.com/watch?v=BFE6_UglLfQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=55

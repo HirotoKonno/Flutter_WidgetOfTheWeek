@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '095_Flutter_Slidable/flutter_slidable_view.dart';
+import '096_RotatedBox/rotated_box_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,6 +26,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const FlutterSlidableView();
+    return const RotatedBoxView();
   }
 }
