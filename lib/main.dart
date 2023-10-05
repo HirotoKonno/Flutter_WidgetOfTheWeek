@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '095_Flutter_Slidable/flutter_slidable_view.dart';
-import '096_RotatedBox/rotated_box_view.dart';
-import '097_ExpansionPanel/expansion_panel_view.dart';
-import '098_Scrollbar/scrollbar_view.dart';
+import '100_FlutterLogo/flutterlogo_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -28,6 +25,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const ScrollbarView();
+    return const FlutterLogoView();
   }
 }

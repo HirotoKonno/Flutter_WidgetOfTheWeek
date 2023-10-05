@@ -294,3 +294,9 @@ https://www.youtube.com/watch?v=2aJZzRMziJc&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#98 Scrollbar\
 https://www.youtube.com/watch?v=DbkIQSvwnZc&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=53
+
+・#99 Connectivity\
+https://www.youtube.com/watch?v=P2vaBZDSqzg&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=52
+
+・#100 FlutterLogo\
+https://www.youtube.com/watch?v=aAmP-WcI6dg&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=51
