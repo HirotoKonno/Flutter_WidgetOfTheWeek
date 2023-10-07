@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '100_FlutterLogo/flutterlogo_view.dart';
+import '101_AnimatedTextKit/animated_text_kit_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -25,6 +25,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const FlutterLogoView();
+    return const AnimatedTextKitView();
   }
 }
