@@ -8,6 +8,8 @@ PODS:
   - location (0.0.1):
     - Flutter
   - Reachability (3.2)
+  - sensors_plus (0.0.1):
+    - Flutter
   - url_launcher_ios (0.0.1):
     - Flutter
 
@@ -16,6 +18,7 @@ DEPENDENCIES:
   - device_info (from `.symlinks/plugins/device_info/ios`)
   - Flutter (from `Flutter`)
   - location (from `.symlinks/plugins/location/ios`)
+  - sensors_plus (from `.symlinks/plugins/sensors_plus/ios`)
   - url_launcher_ios (from `.symlinks/plugins/url_launcher_ios/ios`)
 
 SPEC REPOS:
@@ -31,6 +34,8 @@ EXTERNAL SOURCES:
     :path: Flutter
   location:
     :path: ".symlinks/plugins/location/ios"
+  sensors_plus:
+    :path: ".symlinks/plugins/sensors_plus/ios"
   url_launcher_ios:
     :path: ".symlinks/plugins/url_launcher_ios/ios"
 
@@ -40,6 +45,7 @@ SPEC CHECKSUMS:
   Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
   location: d5cf8598915965547c3f36761ae9cc4f4e87d22e
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  sensors_plus: 5717760720f7e6acd96fdbd75b7428f5ad755ec2
   url_launcher_ios: 08a3dfac5fb39e8759aeb0abbd5d9480f30fc8b4
 
 PODFILE CHECKSUM: e17736f3ed67a79547b4ce69992e35c7833ae181
