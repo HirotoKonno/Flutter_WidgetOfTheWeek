@@ -309,3 +309,9 @@ https://www.youtube.com/watch?v=1oF3pI5umck&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#103 SensorsPlus\
 https://www.youtube.com/watch?v=Fq5zNPJufD0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=48
+
+・#104 Collection\
+https://www.youtube.com/watch?v=Ymw9xfRucK0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=48
+
+・#105 HeroMode\
+https://www.youtube.com/watch?v=AaIASk2u1C0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=47
