@@ -315,3 +315,6 @@ https://www.youtube.com/watch?v=Ymw9xfRucK0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#105 HeroMode\
 https://www.youtube.com/watch?v=AaIASk2u1C0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=47
+
+・#106 HTML\
+https://www.youtube.com/watch?v=rCugckXUC8M&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=46
