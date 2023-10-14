@@ -321,3 +321,9 @@ https://www.youtube.com/watch?v=rCugckXUC8M&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#107 RefreshIndicator\
 https://www.youtube.com/watch?v=ORApMlzwMdM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=45
+
+・#108 FontAwesomeFlutter\
+https://www.youtube.com/watch?v=TOAyjIAsT7o&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=44
+
+・#109 Flow\
+https://www.youtube.com/watch?v=NG6pvXpnIso&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=43
