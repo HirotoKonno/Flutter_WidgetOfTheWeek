@@ -21,6 +21,8 @@ dependencies:
 #  flutter_html: ^2.2.1
   font_awesome_flutter: ^10.5.0
   google_fonts: ^6.1.0
+  cached_network_image: ^3.3.0
+
 
 dev_dependencies:
   flutter_test:

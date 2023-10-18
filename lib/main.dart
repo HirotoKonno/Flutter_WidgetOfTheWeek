@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '111_Theme/theme_view.dart';
+import '112_CachedNetworkImage/cached_networkImage_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,6 +23,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const ThemeView();
+    return const CachedNetworkImageView();
   }
 }
