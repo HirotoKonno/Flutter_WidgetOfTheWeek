@@ -336,3 +336,6 @@ https://www.youtube.com/watch?v=oTvQDJOBXmM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#112 CachedNetworkImage\
 https://www.youtube.com/watch?v=fnHr_rsQwDA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=41
+
+・#113 GestureDetector\
+https://www.youtube.com/watch?v=WhVXkCFPmK4&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=39
