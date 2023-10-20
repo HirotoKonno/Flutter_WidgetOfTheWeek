@@ -339,3 +339,6 @@ https://www.youtube.com/watch?v=fnHr_rsQwDA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#113 GestureDetector\
 https://www.youtube.com/watch?v=WhVXkCFPmK4&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=39
+
+・#114 Freezed\
+https://www.youtube.com/watch?v=RaThk0fiphA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=38
