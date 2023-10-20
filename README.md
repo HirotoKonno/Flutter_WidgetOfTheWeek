@@ -342,3 +342,6 @@ https://www.youtube.com/watch?v=WhVXkCFPmK4&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#114 Freezed\
 https://www.youtube.com/watch?v=RaThk0fiphA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=38
+
+・#115 PathProvider\
+https://www.youtube.com/watch?v=Ci4t-NkOY3I&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=37
