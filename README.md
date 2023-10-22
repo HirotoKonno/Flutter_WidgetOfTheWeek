@@ -345,3 +345,6 @@ https://www.youtube.com/watch?v=RaThk0fiphA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#115 PathProvider\
 https://www.youtube.com/watch?v=Ci4t-NkOY3I&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=37
+
+・#116 Grtit\
+https://www.youtube.com/watch?v=f9XQD5mf6FY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=36
