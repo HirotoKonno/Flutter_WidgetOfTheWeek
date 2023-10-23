@@ -342,3 +342,15 @@ https://www.youtube.com/watch?v=WhVXkCFPmK4&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#114 Freezed\
 https://www.youtube.com/watch?v=RaThk0fiphA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=38
+
+・#115 PathProvider\
+https://www.youtube.com/watch?v=Ci4t-NkOY3I&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=37
+
+・#116 GrtIt\
+https://www.youtube.com/watch?v=f9XQD5mf6FY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=36
+
+・#117 Baseline\
+https://www.youtube.com/watch?v=8ZaFk0yvNlI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=35
+
+・#118 Badges\
+https://www.youtube.com/watch?v=_CIHLJHVoN8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=35

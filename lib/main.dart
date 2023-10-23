@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '113_GestureDetector/gesture_fetecto_view.dart';
+import '118_Badges/badges_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,6 +22,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const GestureDetectorView();
+    return const BadgesView();
   }
 }
