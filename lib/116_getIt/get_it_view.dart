@@ -1,15 +1,16 @@
 import 'package:flutter/material.dart';
+import 'package:get_it/get_it.dart';
 
-class GetIt extends StatefulWidget {
-  const GetIt({
+class getIt extends StatefulWidget {
+  const getIt({
     super.key,
   });
 
   @override
-  createState() => _GetItState();
+  State<getIt> createState() => _GetItState();
 }
 
-class _GetItState extends State<GetIt> {
+class _GetItState extends State<getIt> {
   @override
   void initState() {
     super.initState();
