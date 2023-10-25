@@ -357,3 +357,6 @@ https://www.youtube.com/watch?v=_CIHLJHVoN8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#119 DropdownButton\
 https://www.youtube.com/watch?v=ZzQ_PWrFihg&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=33
+
+・#120 ScaffoldMessenger\
+https://www.youtube.com/watch?v=lytQi-slT5Y&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=33

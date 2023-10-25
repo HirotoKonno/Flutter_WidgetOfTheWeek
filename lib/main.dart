@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '118_Badges/badges_view.dart';
 import '119_DropdownButton/dropdownbutton_view.dart';
+import '120_ScaffoldMessenger/scaffoldmessenger_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -23,6 +24,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const DropdownButtonView();
+    return const ScaffoldMessengerView();
   }
 }
