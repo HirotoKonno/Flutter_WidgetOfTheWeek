@@ -360,3 +360,6 @@ https://www.youtube.com/watch?v=ZzQ_PWrFihg&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#120 ScaffoldMessenger\
 https://www.youtube.com/watch?v=lytQi-slT5Y&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=33
+
+・#121 StatefulBuilder\
+https://www.youtube.com/watch?v=syvT63CosNE&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=32
