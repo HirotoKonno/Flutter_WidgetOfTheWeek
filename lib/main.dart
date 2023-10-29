@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '122_RepaintBoundary/repaintboundary_view.dart';
+import '123_GoogleFonts/googlefonts_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,6 +22,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const RepaintBoundaryView();
+    return const GoogleFontsView();
   }
 }

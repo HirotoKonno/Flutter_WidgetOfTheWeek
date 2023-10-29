@@ -363,3 +363,9 @@ https://www.youtube.com/watch?v=lytQi-slT5Y&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#121 StatefulBuilder\
 https://www.youtube.com/watch?v=syvT63CosNE&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=32
+
+・#122 RepaintBoundary\
+https://www.youtube.com/watch?v=cVAGLDuc2xE&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=31
+
+・#123 GoogleFonts\
+https://www.youtube.com/watch?v=8Vzv2CdbEY0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=30
