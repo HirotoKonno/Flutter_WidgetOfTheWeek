@@ -372,3 +372,6 @@ https://www.youtube.com/watch?v=8Vzv2CdbEY0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#124 SharedPreferences\
 https://www.youtube.com/watch?v=sa_U0jffQII&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=29
+
+・#125 FocusableActionDetector\
+https://www.youtube.com/watch?v=R84AGg0lKs8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=28
