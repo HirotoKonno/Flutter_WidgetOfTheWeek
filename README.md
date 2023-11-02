@@ -375,3 +375,9 @@ https://www.youtube.com/watch?v=sa_U0jffQII&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#125 FocusableActionDetector\
 https://www.youtube.com/watch?v=R84AGg0lKs8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=28
+
+・#126 mason\
+https://www.youtube.com/watch?v=qjA0JFiPMnQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=28
+
+・#127 NavigationRail\
+https://www.youtube.com/watch?v=y9xchtVTtqQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=27
