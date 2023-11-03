@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_widget_of_the_week/128_Autocomplete/autocomplete_view.dart';
 
 import '127_NavigationRail/navigationrail_view.dart';
 
@@ -22,6 +23,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const NavigationRailView();
+    return const AutocompleteView();
   }
 }
