@@ -384,3 +384,6 @@ https://www.youtube.com/watch?v=y9xchtVTtqQ&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#128 Autocomplete\
 https://www.youtube.com/watch?v=-Nny8kzW380&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=26
+
+・#129 LinearGradient\
+https://www.youtube.com/watch?v=gYNTcgZVcWw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=25
