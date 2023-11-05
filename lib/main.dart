@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_widget_of_the_week/128_Autocomplete/autocomplete_view.dart';
 
-import '127_NavigationRail/navigationrail_view.dart';
-import '129_LinearGradient/linear_gradient_view.dart';
+import '130_RatingBar/ratingbar_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,6 +22,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const LinearGradientView();
+    return const RatingBarView();
   }
 }
