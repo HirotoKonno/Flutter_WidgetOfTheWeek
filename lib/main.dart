@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '130_RatingBar/ratingbar_view.dart';
+import '131_TextStyle/textstyle_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,6 +22,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const RatingBarView();
+    return const TextStyleView();
   }
 }
