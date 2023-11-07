@@ -393,3 +393,6 @@ https://www.youtube.com/watch?v=VdkRy3yZiPo&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#131 TextStyle\
 https://www.youtube.com/watch?v=1z6YP7YmvwA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=23
+
+・#132 Focus\
+https://www.youtube.com/watch?v=JCDfh5bs1xc&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=22
