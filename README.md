@@ -396,3 +396,6 @@ https://www.youtube.com/watch?v=1z6YP7YmvwA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#132 Focus\
 https://www.youtube.com/watch?v=JCDfh5bs1xc&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=22
+
+・#133 Shortcut\
+https://www.youtube.com/watch?v=6ZcQmdoz9N8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=21

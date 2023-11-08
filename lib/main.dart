@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '131_TextStyle/textstyle_view.dart';
-import '132_Focus/focus_view.dart';
+import '133_Sortcut/sortcut_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -23,6 +22,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const FocusView();
+    return const ShortcutView();
   }
 }
