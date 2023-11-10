@@ -399,3 +399,6 @@ https://www.youtube.com/watch?v=JCDfh5bs1xc&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#133 Shortcut\
 https://www.youtube.com/watch?v=6ZcQmdoz9N8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=21
+
+・#134 Actions\
+https://www.youtube.com/watch?v=XawP1i314WM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=20
