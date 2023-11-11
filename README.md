@@ -402,3 +402,6 @@ https://www.youtube.com/watch?v=6ZcQmdoz9N8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#134 Actions\
 https://www.youtube.com/watch?v=XawP1i314WM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=20
+
+・#135 Firebase\
+https://www.youtube.com/watch?v=jtFaMv2vGF0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=19
