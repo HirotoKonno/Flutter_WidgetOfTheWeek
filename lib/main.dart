@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '133_Sortcut/sortcut_view.dart';
 import '134_Actions/actions_view.dart';
+import '136_FutureBuilder/future_builder_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -23,6 +24,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const ActionsView();
+    return const FutureBuilderView();
   }
 }

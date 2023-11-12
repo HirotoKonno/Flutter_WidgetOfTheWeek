@@ -405,3 +405,6 @@ https://www.youtube.com/watch?v=XawP1i314WM&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#135 Firebase\
 https://www.youtube.com/watch?v=jtFaMv2vGF0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=19
+
+・#136 FutureBuilder\
+https://www.youtube.com/watch?v=zEdw_1B7JHY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=18
