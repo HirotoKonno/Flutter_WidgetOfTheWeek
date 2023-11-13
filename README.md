@@ -408,3 +408,6 @@ https://www.youtube.com/watch?v=jtFaMv2vGF0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#136 FutureBuilder\
 https://www.youtube.com/watch?v=zEdw_1B7JHY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=18
+
+・#137 GoRouter\
+https://www.youtube.com/watch?v=b6Z885Z46cU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=16
