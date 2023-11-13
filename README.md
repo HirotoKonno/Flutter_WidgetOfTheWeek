@@ -409,5 +409,14 @@ https://www.youtube.com/watch?v=jtFaMv2vGF0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 ・#136 FutureBuilder\
 https://www.youtube.com/watch?v=zEdw_1B7JHY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=18
 
-・#137 GoRouter\
+・#137 NavigationBar\
+https://www.youtube.com/watch?v=DVGYddFaLv0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=17
+
+・#138 GoRouter\
 https://www.youtube.com/watch?v=b6Z885Z46cU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=16
+
+・#139 FirebaseRemoteConfig\
+https://www.youtube.com/watch?v=34ExOdNEMXI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=15
+
+・#140 Flame\
+https://www.youtube.com/watch?v=tEqVyJNOroI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=14
