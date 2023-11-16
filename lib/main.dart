@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '137_NavigationBar/navigationbar_view.dart';
+import '141_RawMagnifier/raw_magnifier_view.dart';
 
 void main() {
   runApp(const MyApp());
@@ -22,6 +23,6 @@ class _TestView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // Please change SizeBox to target views.
-    return const NavigationBarView();
+    return const RawMagnifierView();
   }
 }

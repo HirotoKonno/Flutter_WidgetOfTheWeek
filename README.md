@@ -420,3 +420,6 @@ https://www.youtube.com/watch?v=34ExOdNEMXI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#140 Flame\
 https://www.youtube.com/watch?v=tEqVyJNOroI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=14
+
+・#141 RawMagnifier\
+https://www.youtube.com/watch?v=YBRkVCRP1Gw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=14

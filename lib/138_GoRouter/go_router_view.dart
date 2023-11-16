@@ -24,7 +24,7 @@ class GoRouterViewState extends State<GoRouterView> {
     routes: [
       GoRoute(
         path: '/main',
-        builder: (context, state) => const SamplePage138Main(),
+        builder: (context, state) => const Test(),
         routes: [
           GoRoute(
             path: 'sub1',
@@ -46,8 +46,8 @@ class GoRouterViewState extends State<GoRouterView> {
   );
 }
 
-class SamplePage138Main extends StatelessWidget {
-  const SamplePage138Main({
+class Test extends StatelessWidget {
+  const Test({
     super.key,
   });
 
