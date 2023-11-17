@@ -423,3 +423,12 @@ https://www.youtube.com/watch?v=tEqVyJNOroI&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#141 RawMagnifier\
 https://www.youtube.com/watch?v=YBRkVCRP1Gw&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=14
+
+・#142 Lints\
+https://www.youtube.com/watch?v=qEZf2q4W20g&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=12
+
+・#143 FirebaseStorage\
+https://www.youtube.com/watch?v=4RcK1yKZtBA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=11
+
+・#144 Animate\
+https://www.youtube.com/watch?v=JSqUZFkRLr8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=10
