@@ -432,3 +432,6 @@ https://www.youtube.com/watch?v=4RcK1yKZtBA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#144 Animate\
 https://www.youtube.com/watch?v=JSqUZFkRLr8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=10
+
+・#145 FirebaseCrashlytics\
+https://www.youtube.com/watch?v=1wBpX0iFl5E&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=9
