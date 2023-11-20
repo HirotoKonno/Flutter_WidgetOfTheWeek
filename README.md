@@ -442,3 +442,18 @@ https://www.youtube.com/watch?v=q4x2G_9-Mu0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 ・#147 CallbackShortcuts\
 https://www.youtube.com/watch?v=VcQQ1ns_qNY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=7
 
+・#148 Firestore\
+https://www.youtube.com/watch?v=-wAL46TFwQU&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=7
+
+・#149 FirebaseAnalytics\
+https://www.youtube.com/watch?v=Fna-xqrA160&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=5
+
+・#150 HomeWidget\
+https://www.youtube.com/watch?v=L9cP9OTUstA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=4
+
+・#151 FirebaseAuth\
+https://www.youtube.com/watch?v=Qw3IjnhTl5w&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=3
+
+・#152 FlChart\
+https://www.youtube.com/watch?v=PkPAtfNNJX8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2
+
