@@ -438,3 +438,7 @@ https://www.youtube.com/watch?v=1wBpX0iFl5E&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 
 ・#146 Draggable\
 https://www.youtube.com/watch?v=q4x2G_9-Mu0&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=8
+
+・#147 CallbackShortcuts\
+https://www.youtube.com/watch?v=VcQQ1ns_qNY&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=7
+
