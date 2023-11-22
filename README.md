@@ -457,3 +457,6 @@ https://www.youtube.com/watch?v=Qw3IjnhTl5w&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB99
 ・#152 FlChart\
 https://www.youtube.com/watch?v=PkPAtfNNJX8&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2
 
+・#153 Gap\
+https://www.youtube.com/watch?v=MqjCIITfCIA&list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG&index=2
+
