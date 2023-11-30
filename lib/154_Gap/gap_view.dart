@@ -74,9 +74,9 @@ class GapView extends StatelessWidget {
     );
   }
 
-  randomColor() {
+  Color randomColor() {
     return Color(
       (Random().nextDouble() * 0xFFFFFF).toInt() << 0,
-    ).withOpacity(1.0);
+    ).withOpacity(1);
   }
 }
