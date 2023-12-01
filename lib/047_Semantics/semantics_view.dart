@@ -13,8 +13,8 @@ class SemanticsView extends StatelessWidget {
             label: 'Semantics Button called by TalkBack',
             child: Container(
               color: Colors.blue,
-              height: 50.0,
-              width: 150.0,
+              height: 50,
+              width: 150,
               child: const Center(
                 child: Text('Tap me'),
               ),
